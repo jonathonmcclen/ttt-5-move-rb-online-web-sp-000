@@ -14,5 +14,6 @@ def input_to_index(num)
 end
 
 def move(array, index, player = "X")
+  puts player
   array[i] = player
 end
