@@ -15,5 +15,4 @@ end
 
 def move(array, index, player = X)
   array[i] = player
-  array
 end
