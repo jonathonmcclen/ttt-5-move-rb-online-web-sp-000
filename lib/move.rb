@@ -10,9 +10,10 @@ end
 
 
 def input_to_index(num)
-  index = num - 1
+  index = num.to_i - 1
 end
 
-def move()
-  
+def move(array, index, player = X)
+  array[i] = player
+  array
 end
