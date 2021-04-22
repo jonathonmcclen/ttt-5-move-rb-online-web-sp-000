@@ -15,5 +15,5 @@ end
 
 def move(array, index, player = "X")
   puts player
-  array[i] = player
+  array[index] = player
 end
